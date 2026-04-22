@@ -1,8 +1,5 @@
 <div align="center">
 
-<a href="https://belakram2115.github.io">
-  <img src="hero-banner.png" alt="Work hard in silence, let success make the noise" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</a>
 
 # Belbakhouche Akram Khaled
 
